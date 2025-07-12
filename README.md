@@ -38,13 +38,13 @@ Welcome to the Hangman Game! This is a simple implementation of the classic word
 
 
 
-### How to Play
+## How to Play
 The game will randomly select a word from the list.
 You will be prompted to guess a letter.
 If the letter is in the word, it will be revealed; if not, you will lose a life.
 The game continues until you either guess the word or run out of lives. 
 
-### License
+## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Artin1392/HangMan/blob/main/LICENSE) file for details.
 
 ### Contributing
