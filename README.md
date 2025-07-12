@@ -45,7 +45,7 @@ If the letter is in the word, it will be revealed; if not, you will lose a life.
 The game continues until you either guess the word or run out of lives. 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Artin1392/HangMan/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Artin1392/HangMan?tab=MIT-1-ov-file) file for details.
 
 ### Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request.
