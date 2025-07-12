@@ -54,3 +54,5 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 - Inspired by the classic Hangman game.
 - Thanks to the open-source community for their contributions and support.
 - Feel free to modify any sections to better fit your project or add any additional information you think is necessary!
+
+![HangMan](hangman.png)
